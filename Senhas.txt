@@ -1,0 +1,16 @@
+Postgresql
+
+Usuário: postgres
+Senha:   ifc
+------------
+
+XAMPP Mysql
+
+Usuário: root
+Sem senha
+------------
+
+XAMPP Tomcat
+
+Usuário: tomcat
+Senha:   tomcat
